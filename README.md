@@ -1,4 +1,3 @@
-# about-me
 # About Me
 # Birthday: December 6th
 # Hobbies: I love Volleyball
@@ -11,4 +10,4 @@ even more tan.
 <br>
 <b>Some things that I hate</b>
 - I really don't appreciate it if anyone takes my food randomly and decides that they want to eat it.
-- I don't like being targetting although if you do it, I will do it too.
+- I don't like being targeted although if you do it, I will do it too.
